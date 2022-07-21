@@ -13,7 +13,7 @@
   <summary>☎️ Contact me</summary>
 <div>
   <samp>
-    <h2 align="center">Let's connect!:</h2>
+    <h2 align="center">Let's connect!</h2>
     <p align="center">
       <br/>
       <a href="https://mailto:shubhbharadwaj1@gmail.com" target="blank"><img align="center"
@@ -55,6 +55,7 @@
 <details>
   <summary>📈 Activity Graph</summary>
   <br/>
-  <h2 align="center"> my current activity </h2>
+  <h2 align="center"> My Current Activity </h2>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Shubh's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=Shubh-Bharadwaj&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 </details>
+<!---Credits: 1999azzar.md--->
