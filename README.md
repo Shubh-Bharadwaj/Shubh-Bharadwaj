@@ -10,7 +10,7 @@
 </div>
 
 <details>
-  <summary>☎️ Contact me</summary>
+  <summary>☎️ Contact Me</summary>
 <div>
   <samp>
     <h2 align="center">Let's connect!</h2>
