@@ -1,7 +1,6 @@
-@@ -0,0 +1,152 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Shubh</h1>
-<h4 align="center">a student who is always learning, unlearning and relearning.</h4>
+<h1 align="center">Hi! I'm Shubh</h1>
+<h4 align="center">A student who is always learning, unlearning and relearning.</h4>
 </div>
 
 <div align="center">
