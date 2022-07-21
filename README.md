@@ -1,6 +1,9 @@
 <div align="center">
 <h1 align="center">Hi! I'm Shubh</h1>
-<h4 align="center">A student who is always learning, unlearning and relearning.</h4>
+<!---<h4 align="center">A student who is always learning, unlearning and relearning.</h4>--->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=A student who is always+learning+unlearning+and relearning;Competitive+Programmer;"></a>
+</p>
 </div>
 
 <div align="center">
