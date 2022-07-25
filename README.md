@@ -35,23 +35,9 @@
 
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
-  <div>
-    <h2 align="center"> 📊 Github Stats </h2>
-      <br/>
-        <p align="center">
-          <a href="https://github.com/Shubh-Bharadwaj">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?
-  username=Shubh-Bharadwaj&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="Shubh-Bharadwaj :: Top Langs" /></a>
-        </p>
-        <p align="center">
-          <a href="https://github.com/Shubh-Bharadwaj/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Shubh-Bharadwaj&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubh-Bharadwaj&theme=gruvbox&hide_border=true" />
-          </a>
-        </p>
-     <br>
-  </div>    
-</details>
+| ![Shubh's github stats](https://github-readme-stats.vercel.app/api?username=Shubh-Bharadwaj&show_icons=true&theme=tokyonight) | ![Shubh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shubh-Bharadwaj&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh-Bharadwaj&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Shubh-Bharadwaj&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 <details>
   <summary>📈 Activity Graph</summary>
