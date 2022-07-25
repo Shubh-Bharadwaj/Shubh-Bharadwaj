@@ -57,6 +57,8 @@
   <summary>📈 Activity Graph</summary>
   <br/>
   <h2 align="center"> My Current Activity </h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Shubh's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=Shubh-Bharadwaj&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+<a href="https://github.com/Shubh-Bharadwaj"><img alt="Shubh's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=Shubh-Bharadwaj&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 </details>
-<!---Credits: 1999azzar.md--->
+<!---Credits: 1999azzar.md
+https://github.com/ashutosh00710/github-readme-activity-graph
+"https://github.com/Shubh-Bharadwaj--->
