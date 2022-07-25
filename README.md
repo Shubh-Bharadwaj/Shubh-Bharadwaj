@@ -36,7 +36,7 @@
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <div>
-    <h2 align="center"> 📊 Github stats </h2>
+    <h2 align="center"> 📊 Github Stats </h2>
       <br/>
         <p align="center">
           <a href="https://github.com/Shubh-Bharadwaj/">
