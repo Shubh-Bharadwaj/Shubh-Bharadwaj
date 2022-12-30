@@ -16,6 +16,9 @@
     <h2 align="center">Let's connect!</h2>
     <p align="center">
       <br/>
+      <a href="https://https://www.linkedin.com/in/shubhbharadwaj/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="shubh" height="30"/></a>                                                                         
       <a href="https://mailto:shubhbharadwaj1@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="shubh" height="30"/></a>
