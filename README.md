@@ -39,25 +39,36 @@
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <div>
-    <h2 align="center"> 📊 Github Stats </h2>
+  <samp>
+    <h2 align="center"> Github stats </h2>
       <br/>
+    <details open>
+  <summary><h3>Languages</h3></summary>
+            <p align="center">
+        <a href="https://github.com/Shubh-Bharadwaj">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh-Bharadwaj&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+          alt="Shubh :: overall Top Langs " /></a>
+      </p>
         <p align="center">
-          <a href="https://github.com/Shubh-Bharadwaj/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh-Bharadwaj&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="Shubh-Bharadwaj :: Top Langs" /></a>
+          <a href="https://github.com/Shubh-Bharadwaj">
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shubh-Bharadwaj&theme=gruvbox&layout=compact&hide_border=true"
+          alt="Shubh :: Top Langs by repo" />
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shubh-Bharadwaj&theme=gruvbox&layout=compact&hide_border=true"
+          alt="Shubh :: Top Langs by commit" />
+          </a>
         </p>
+</details>
+    <details open>
+  <summary><h3>stasistic</h3></summary>
         <p align="center">
-          <a href="https://github.com/Shubh-Bharadwaj/">
+          <a href="https://github.com/Shubh-Bharadwaj">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Shubh-Bharadwaj&show_icons=true&theme=gruvbox&hide_border=true" />
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubh-Bharadwaj&theme=gruvbox&hide_border=true" />
           </a>
        </p>
      <br>
+     </samp>
   </div>    
-</details>
-  <summary>📈 Activity Graph</summary>
-  <br/>
-  <h2 align="center"> My Current Activity </h2>
-<a href="https://github.com/Shubh-Bharadwaj"><img alt="Shubh's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=Shubh-Bharadwaj&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 </details>
 <!---Credits: 1999azzar.md
 https://github.com/ashutosh00710/github-readme-activity-graph
