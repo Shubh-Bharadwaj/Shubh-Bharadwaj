@@ -11,10 +11,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=github,python,c,c++,pandas,numpy" /><br>
+    <img src="https://skillicons.dev/icons?i=github,python,c,cpp,ai,octave" /><br>
     <img src="https://skillicons.dev/icons?i=react,mysql,html,css,vscode,git" />
 </div>
-
 <br/>
 <hr/>
 <!---# 💻 Tech Stack:
