@@ -80,6 +80,4 @@
      </samp>
   </div>    
 </details>
-<!---Credits: 1999azzar.md
-https://github.com/ashutosh00710/github-readme-activity-graph
-"https://github.com/Shubh-Bharadwaj--->
+<!---"https://github.com/Shubh-Bharadwaj--->
